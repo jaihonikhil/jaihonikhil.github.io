@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Disinfection | Jaihonikhil</title>
+    <link>https://jaihonikhil.github.io/tag/disinfection/</link>
+      <atom:link href="https://jaihonikhil.github.io/tag/disinfection/index.xml" rel="self" type="application/rss+xml" />
+    <description>Disinfection</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jaihonikhil.github.io/media/icon_hu94c20572586274a900963e2d3893d162_15641_512x512_fill_lanczos_center_2.png</url>
+      <title>Disinfection</title>
+      <link>https://jaihonikhil.github.io/tag/disinfection/</link>
+    </image>
+    
+    <item>
+      <title>Techno Advanced Disinfection Tunnel</title>
+      <link>https://jaihonikhil.github.io/project/project44/</link>
+      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://jaihonikhil.github.io/project/project44/</guid>
+      <description>&lt;p&gt;TADT is a robust autonomous disinfection tunnel to disinfect external surfaces of COVID-19 virus such as clothes and open body sections in public places such as airports, office complexes, schools, and malls. To make the tunnel effective and highly efficient, it has been provided with two chambers with three disinfection processes. Due to the multiple processes, the possibility of neutralizing the virus is quite high and higher than other solutions available at this point for this purpose.&lt;/p&gt;
+&lt;p&gt;Chamber 1 sprays the solution of a disinfectant on the person. This solution can be either a dilute solution of approved chemical or any Ayurvedic/herbal disinfectant. Once the person enters chamber 2, he/she is exposed to hot air at 70 °C along with far-ultraviolet C rays (207–222 nm). Both chambers function autonomously by detecting a person in a chamber using ultrasonic sensors. The proposed tunnel is developed under industry–academia collaboration jointly by Technopark@iitk and ALIMCO under the ambit of the Ministry of Human Resources Development and the Ministry of Social Justice and Empowerment, respectively. The tunnel is referred to as the ‘Techno Advanced Disinfection Tunnel’ (TADT).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

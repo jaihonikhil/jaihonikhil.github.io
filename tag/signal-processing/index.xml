@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Signal Processing | Jaihonikhil</title>
+    <link>https://jaihonikhil.github.io/tag/signal-processing/</link>
+      <atom:link href="https://jaihonikhil.github.io/tag/signal-processing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Signal Processing</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://jaihonikhil.github.io/media/icon_hu94c20572586274a900963e2d3893d162_15641_512x512_fill_lanczos_center_2.png</url>
+      <title>Signal Processing</title>
+      <link>https://jaihonikhil.github.io/tag/signal-processing/</link>
+    </image>
+    
+    <item>
+      <title>WITRACK Wireless tracking of humans through wal</title>
+      <link>https://jaihonikhil.github.io/project/project2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jaihonikhil.github.io/project/project2/</guid>
+      <description>&lt;p&gt;​WiTrack is a device that tracks the 3-D motion of the user from the radio signals reflected off their body. It works even if the person is occluded from the WiTrack device or in a different room.  WiTrack does not require the user to wear any kind of wearable device. It transmits wireless signals whose power is significantly lower than Wi-Fi or cellular transmissions. It can be incorporated into consumer electronics and has a wide set of applications.&lt;/p&gt;
+&lt;p&gt;The device transmits a radio signal and uses its reflections to estimate the time it takes the signal to travel from the transmitting antenna to the reflecting object and back to each of the receiving antennas. WiTrack then uses its knowledge of the position of the antennas to create a geometric reference model, which maps the round trip delays observed by the receive antennas to a 3D position of the reflecting body.&lt;/p&gt;
+&lt;p&gt;For this Project, our team and the project was awareded the Best Research and Development Award by the Science and Technology Council, IIT Kanpur.&lt;/p&gt;
+&lt;p&gt;This Project was inspired by the Witrack Project of MIT under Professor Dina Katabi.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

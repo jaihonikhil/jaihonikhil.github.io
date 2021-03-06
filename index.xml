@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jaihonikhil</title>
+    <link>https://jaihonikhil.github.io/</link>
+      <atom:link href="https://jaihonikhil.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jaihonikhil</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jaihonikhil.github.io/media/icon_hu94c20572586274a900963e2d3893d162_15641_512x512_fill_lanczos_center_2.png</url>
+      <title>Jaihonikhil</title>
+      <link>https://jaihonikhil.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Accomplish&amp;shy;ments</title>
+      <link>https://jaihonikhil.github.io/accomplishments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jaihonikhil.github.io/accomplishments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://jaihonikhil.github.io/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jaihonikhil.github.io/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://jaihonikhil.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jaihonikhil.github.io/publications/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Quickly discover relevant content by &lt;a href=&#34;./publication/&#34;&gt;filtering publications&lt;/a&gt;.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Popular Topics</title>
+      <link>https://jaihonikhil.github.io/tags/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jaihonikhil.github.io/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://jaihonikhil.github.io/talk/example-talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://jaihonikhil.github.io/talk/example-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Statement Verification and Evidence Finding using Tables</title>
+      <link>https://jaihonikhil.github.io/project/example/</link>
+      <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://jaihonikhil.github.io/project/example/</guid>
+      <description>&lt;p&gt;Tables are ubiquitous in documents and presentations for conveying important information in a concise manner. This is true in many domains, stretching from scientific to government documents.  In fact,  surrounding text in these articles are often statements summarizing or highlighting some information derived from the primary source data in tables. Describing all the information provided in a table in a readable manner would be lengthy and considerably more difficult to understand.&lt;/p&gt;
+&lt;p&gt;Recently, there has been an interest in factual verification and prediction over structured data like tables and graphs. To circumvent any false news incident, it is necessary to not only model and predict over structured data efficiently but also to explain those predictions. In this paper, as part of the SemEval-2021 Task 9,  we tackle the problem of fact verification and evidence finding over tabular data.&lt;/p&gt;
+&lt;p&gt;There are two subtasks. Given a table and a statement/fact, subtask A determines whether the statement is inferred from the tabular data, and subtask B determines which cells in the table provide evidence for the former subtask. We make a comparison of the baselines and state-of-the-art approaches over the given SemTabFact dataset. We also propose a novel approach CellBERT to solve evidence finding as a form of the Natural Language Inference task. We obtain a &lt;strong&gt;3-way F1 score of 0.69 on subtask A&lt;/strong&gt; and an &lt;strong&gt;F1 score of 0.65 on subtask B&lt;/strong&gt;. We were &lt;strong&gt;5th in Subtask A&lt;/strong&gt; and &lt;strong&gt;1st in Subtask B&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What took me so lo_ong to start Blogging?</title>
+      <link>https://jaihonikhil.github.io/post/getting-started/</link>
+      <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://jaihonikhil.github.io/post/getting-started/</guid>
+      <description>&lt;p&gt;Salut!╰(* °▽° *)╯&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Disclaimer: This is a personal blog written for the sole purpose of the satisfaction of talking to someone in a way that the writer finds satisfying. In addition to it do not try to interpret the emogis in the blog 🍕&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I have always wanted to be an original and the thought of writing or documenting things has always excited me. Besides Blogging, I have always wanted to cover songs and post them for my own satisfaction. But somehow couldn&amp;rsquo;t because of my own insecurities, the people around me, and the thought that publicizing oneself was a cheap stunt. (I&amp;rsquo;m wrong here)&lt;/p&gt;
+&lt;p&gt;However, somehow I realized in the past year that my life is short, I have sooo many dreams to accomplish, soo many amazing people to meet and sooo much help to give. I have always loved meeting new people, getting to know them, and mainly how differently everyone thinks!&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m not going to sit here and wait for things to happen, I&amp;rsquo;m going to make them happen, and if people think I&amp;rsquo;m an idiot I don&amp;rsquo;t care.&lt;/p&gt;
+&lt;p&gt;So considering everything, if I have 50–60ish more years to live and so many dreams to achieve, I need to be alive and not just living.&lt;/p&gt;
+&lt;p&gt;I don&amp;rsquo;t know how my blogs are gonna turn out or even if they would even matter to anyone. But does it even matter when you are just an amateur open to ideas, risks, and suggestions(HINT HINT)❗&lt;/p&gt;
+&lt;p&gt;OHKAY Jaya Speak the Truth!!🌊&lt;/p&gt;
+&lt;p&gt;Well, I like talking and why not? and I have these so many wonderful ideas, thoughts, and experiences in my head and while I am exploring so many things at this stage, I can&amp;rsquo;t contain everything in my head without venting it out anywhere. So this blog is possibly an effort to pour my heart out, speak my mind and hear my thoughts. Also in a way, helping me to think clearly and taking control of my thoughts or rather they taking control over me❓&lt;/p&gt;
+&lt;p&gt;Though I am mainly writing to deal with anxiety, guilt, and self-hatred. I have been feeling miserable, wrongly done, hurt, and lost for a while.&lt;/p&gt;
+&lt;p&gt;The desire for answers and conquest over anxiety and mental issues, paired with an inability to never being able to overcome or find the source, control, and understanding of the problem has eventually led me to start finding things that are beautiful about me and appreciating the world around. I am trying to reason and understand how to overcome because I can&amp;rsquo;t give up.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;It isn&amp;rsquo;t the fact that you are hurt that counts,&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;But only How did you take it?&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Well in addition to it who knows I might meet amazing people with similar thoughts and make new friends!💁‍♀️&lt;/p&gt;
+&lt;p&gt;Also, I am just beginning so if you are reading this blog, you will notice the improvement in the content and mentality gradually so please be patient with me. I am all raw and honest here!&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;The more man meditates upon good thoughts,&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;the better will be his world and the world at large !&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;CONFUCIOUS&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;That&amp;rsquo;s it! I will end this blog on a positive note with lines that touch my heart and might help a wanderer ……&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;It isn&amp;rsquo;t the fact that you are dead that counts,&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;But only How did you die?&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Cheers, and I&amp;rsquo;m extremely grateful to you for being a reader 😸&lt;/p&gt;
+&lt;!-- 1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
+2. The template can be modified and customised to suit your needs. It&#39;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
+3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
+  &lt;div class=&#34;figure-img-wrap&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;&lt;figcaption&gt;
+      The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+## Get Started
+
+- 👉 [**Create a new site**](https://wowchemy.com/templates/)
+- 📚 [**Personalize your site**](https://wowchemy.com/docs/)
+- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
+- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=(%23MadeWithWowchemy%20OR%20%23MadeWithAcademic)&amp;src=typed_query)
+- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-modules/issues)
+- ⬆️ **Updating Wowchemy?** View the [Update Guide](https://wowchemy.com/docs/guide/update/) and [Release Notes](https://wowchemy.com/updates/)
+
+## Crowd-funded open-source software
+
+
+
+### [❤️ Click here to become a sponsor and help support Wowchemy&#39;s future ❤️](https://wowchemy.com/plans/)
+
+As a token of appreciation for sponsoring, you can **unlock [these](https://wowchemy.com/plans/) awesome rewards and extra features 🦄✨**
+
+## Ecosystem
+
+* **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli):** Automatically import publications from BibTeX
+
+## Inspiration
+
+[Check out the latest **demo**](https://academic-demo.netlify.com/) of what you&#39;ll get in less than 10 minutes, or [view the **showcase**](https://wowchemy.com/user-stories/) of personal, project, and business sites.
+
+## Features
+
+- **Page builder** - Create *anything* with [**widgets**](https://wowchemy.com/docs/page-builder/) and [**elements**](https://wowchemy.com/docs/writing-markdown-latex/)
+- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
+- **Create content** in [**Markdown**](https://wowchemy.com/docs/writing-markdown-latex/), [**Jupyter**](https://wowchemy.com/docs/import/jupyter/), or [**RStudio**](https://wowchemy.com/docs/install-locally/)
+- **Plugin System** - Fully customizable [**color** and **font themes**](https://wowchemy.com/docs/customization/)
+- **Display Code and Math** - Code highlighting and [LaTeX math](https://en.wikibooks.org/wiki/LaTeX/Mathematics) supported
+- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
+- **Beautiful Site** - Simple and refreshing one page design
+- **Industry-Leading SEO** - Help get your website found on search engines and social media
+- **Media Galleries** - Display your images and videos with captions in a customizable gallery
+- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
+- **Multi-language** - 34+ language packs including English, 中文, and Português
+- **Multi-user** - Each author gets their own profile page
+- **Privacy Pack** - Assists with GDPR
+- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
+- **One-Click Deployment** - No servers. No databases. Only files.
+
+## Themes
+
+Wowchemy and its templates come with **automatic day (light) and night (dark) mode** built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action! Day/night mode can also be disabled by the site admin in `params.toml`.
+
+[Choose a stunning **theme** and **font**](https://wowchemy.com/docs/customization) for your site. Themes are fully customizable.
+
+## License
+
+Copyright 2016-present [George Cushen](https://georgecushen.com).
+
+Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md) license.  --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Development of Autonomous Advanced Disinfection Tunnel to Tackle External Surface Disinfection of COVID-19 Virus in Public Places</title>
+      <link>https://jaihonikhil.github.io/publication/example/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://jaihonikhil.github.io/publication/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Navigate the Mars Rover (The Mars Colonization Program)</title>
+      <link>https://jaihonikhil.github.io/project/example2/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://jaihonikhil.github.io/project/example2/</guid>
+      <description>&lt;p&gt;This was a project/ competition offered by Microsoft India to the selected students as a part of the Engage Mentorship Program.&lt;/p&gt;
+&lt;p&gt;This project required to implement and innovate the Pathfinding Library. As a result, We implemented a new heuristics added to our pathfinding visualizer by the name of Optimized Manhatten. Having tested the heuristic on benchmark, we have managed time reduction by approx 50% in case of Astar algorithm and approx 15% reduction in time in Best First Search.&lt;/p&gt;
+&lt;p&gt;The length of path and number of operations remain unaltered, hence we have not applied greedy algorithm to reduce time and compromise on the optimal path. We have also added an option of speed in the naivigation bar, the speed with which the rover reaches the space station can be managed.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Gateway Heuristic&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The maze and patterns present in the repository were added to test a new heuristic called the Gateway heuristic. The gateway heuristic pre-calculates the distances between entrances/exits of the areas. It also proceeds in two phases. Preprocessing Phase: The map is decomposed into areas in an identical way as for the dead-end heuristic.&lt;/p&gt;
+&lt;p&gt;We define the boundaries between areas as gateways (or gates). A gateway can be of an arbitrary size, but an artifact of our decomposition algorithm is that its orientation is always either horizontal or vertical. Next we use multiple A* searches to pre-calculate the (static) distance between gates. For each gateway we calculate the path distance to all the other gateways (cost of infinity if no path exists). Alternatively, one could calculate only the distances between gateways within each room and then use a small search to accumulate the total cost during run-time. However, our approach results in more accurate heuristic estimates and faster run-time access.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>STUDENTBUILD4COVID19 International Hackathon (USA) Teamc- RapiDoc&#43;</title>
+      <link>https://jaihonikhil.github.io/project/studentbuild/</link>
+      <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://jaihonikhil.github.io/project/studentbuild/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Techno Advanced Disinfection Tunnel</title>
+      <link>https://jaihonikhil.github.io/project/project44/</link>
+      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://jaihonikhil.github.io/project/project44/</guid>
+      <description>&lt;p&gt;TADT is a robust autonomous disinfection tunnel to disinfect external surfaces of COVID-19 virus such as clothes and open body sections in public places such as airports, office complexes, schools, and malls. To make the tunnel effective and highly efficient, it has been provided with two chambers with three disinfection processes. Due to the multiple processes, the possibility of neutralizing the virus is quite high and higher than other solutions available at this point for this purpose.&lt;/p&gt;
+&lt;p&gt;Chamber 1 sprays the solution of a disinfectant on the person. This solution can be either a dilute solution of approved chemical or any Ayurvedic/herbal disinfectant. Once the person enters chamber 2, he/she is exposed to hot air at 70 °C along with far-ultraviolet C rays (207–222 nm). Both chambers function autonomously by detecting a person in a chamber using ultrasonic sensors. The proposed tunnel is developed under industry–academia collaboration jointly by Technopark@iitk and ALIMCO under the ambit of the Ministry of Human Resources Development and the Ministry of Social Justice and Empowerment, respectively. The tunnel is referred to as the ‘Techno Advanced Disinfection Tunnel’ (TADT).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Unsupervised abnormality detection by using intelligent and heterogeneous autonomous systems( IEEE Signal Processing Cup )</title>
+      <link>https://jaihonikhil.github.io/project/project1/</link>
+      <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://jaihonikhil.github.io/project/project1/</guid>
+      <description>&lt;p&gt;the competition required to do Unsupervised abnormality detection by using intelligent and heterogeneous autonomous systems where the goal was to detect abnormalities in the behaviour of the ground and aerial systems based on embedded sensor data in real-time.&lt;/p&gt;
+&lt;p&gt;Autonomous systems experience failure when the sensors record abnormal data which leads to the crashing of the decision making module if it is not capable of detecting abnormalities. The design of abnormality detection models becomes
+an important step in preventing the autonomous systems from
+malfunctioning. The organisers of SP cup have provided the dataset
+consisting of data from various sensors mounted on a drone.
+After identifying the key challenges like limited training data,
+non-uniformity in sampling of data from different sensors, low
+FPS of camera, absence of ground truth annotations, we have used isolation
+forest method, CNN based timeforecasting method and ARMA
+model based timeforecasting method to detect the abnormality.
+We compare these methods using the performance metric of
+Excess Mass Curves&lt;/p&gt;
+&lt;p&gt;We were 6th internationally in this competition !&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>UDBHAV 2020 (The Innovation Festival, IIT Kanpur)</title>
+      <link>https://jaihonikhil.github.io/project/udbhav/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jaihonikhil.github.io/project/udbhav/</guid>
+      <description>&lt;p&gt;This competition was organized by the Startup Incubation Center, IIT Kanpur for selecting top Start-Up ideas for funding and supporting them at the Seed stage.&lt;/p&gt;
+&lt;p&gt;We had pitched the Customer, Product, Company and Competition component for the idea Preliminary Detection of Pulmonary Detection which was our Inter IIT Techmeet Project.Our Business model estimated a Market Size of 6.5 Lakh Health Centers and an INR 24 Million per Annum Revenue from sales of the App and the Hardware. Allover the idea was very impressive and we were awarded with the 3rd Prize and a cash prize as well. Our idea was also called out for funding by the SIIC Center, IIT Kanpur!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Preliminary Detection of Pulmonary Diseases</title>
+      <link>https://jaihonikhil.github.io/project/proejct3/</link>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://jaihonikhil.github.io/project/proejct3/</guid>
+      <description>&lt;p&gt;Early detection of Pulmonary diseases like Aastma, Tuberculosis, COPD ,Bronchiolitis etc through non-invasive method. This project was done keeping in mind a competition &amp;ldquo;Tech For Change&amp;rdquo; in Inter IIT Techmeet 2019 in IIT Rorkee.The slides presented are attached as well.&lt;/p&gt;
+&lt;p&gt;Most of the fatalities caused by pulmonary disorders such as COPD, asthma, bronchiolitis etc. could be prevented by timely diagnosis of the patients. Combined with the extreme lack of medical practitioners and infrastructure in rural areas, the lack of screening programs, which would provide such timely diagnosis, has made pulmonary diseases the second most deadliest kind in India. To make such screening programs more practical and feasible, we propose an automated procedure for the screening of the rural populations, using an easy-to-use device that can be operated even by a community worker. As a proof of concept, we have developed a novel device to record auscultation sounds and the breathing rate of the patient. On this data, a machine learning model with Keras framework and Tensorflow backend is implemented to detect abnormalities.&lt;/p&gt;
+&lt;p&gt;A 3 dense layer and a dropout layer convolutional neural network is used to identify Wheezes and Crackles in an audio file which is fed as Mel-Spectrograms as inputs. Data augmentation was employed in the form of audio stretching as well as Vocal Tract Length Perturbation, especially for the scarcer &amp;lsquo;wheeze&amp;rsquo; and &amp;lsquo;wheeze and crackles&amp;rsquo; classes. Overall validation accuracy currently stands at roughly 80 percent. On the user interface side, the mobile application displays an immediate report of the patient displaying the diseases which are suggested by the symptoms observed. Such automation using an inexpensive device removes the dependency on doctors and expensive equipment, which makes the screening programs impractical for large scale implementation today.&lt;/p&gt;
+&lt;p&gt;We were awarded silver medal in this competition !&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Non Invasive Glucometer</title>
+      <link>https://jaihonikhil.github.io/project/pitch/</link>
+      <pubDate>Tue, 03 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://jaihonikhil.github.io/project/pitch/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Solution Concept&lt;/strong&gt;
+NIR Analysis and Pulse Oximetry&lt;/p&gt;
+&lt;p&gt;Pitched the Business model for BETiC- Non Invasive Glucometer depicting market size, penetration rate, profit and estimated sales revenue&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Novelty&lt;/strong&gt;
+NIR Analysis along with Pulse Oximetry with multi-variable regression solve the purpose&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;
+One-step, easy to follow procedure
+Useful for patients with high, low as well as normal sugar values
+No risk of spread of viral agents
+Cost-effective solution in the long run&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Competitive advantage&lt;/strong&gt;
+A one-time-buy product that gives accurate results throughout its lifetime
+Multiple people can use the same device, hence it is cost-effective
+Only needs change of batteries with time&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://jaihonikhil.github.io/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://jaihonikhil.github.io/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+&lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+Three
+&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>INTERNATIONAL ROBOTICS CHALLENGE</title>
+      <link>https://jaihonikhil.github.io/project/robotics/</link>
+      <pubDate>Sat, 03 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://jaihonikhil.github.io/project/robotics/</guid>
+      <description>&lt;p&gt;Designed an Autonomous Pathplanning bot and a Manual bot with scissor mechanism and a gripper, controlled through PS2 for removing the obstacles in the maze&lt;/p&gt;
+&lt;p&gt;Helped in the electrical part of the Robots as well through the connections with the motors, Ultrasonic sensors, Arduino, and servos&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jaihonikhil.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jaihonikhil.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jaihonikhil.github.io/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jaihonikhil.github.io/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WITRACK Wireless tracking of humans through wal</title>
+      <link>https://jaihonikhil.github.io/project/project2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jaihonikhil.github.io/project/project2/</guid>
+      <description>&lt;p&gt;​WiTrack is a device that tracks the 3-D motion of the user from the radio signals reflected off their body. It works even if the person is occluded from the WiTrack device or in a different room.  WiTrack does not require the user to wear any kind of wearable device. It transmits wireless signals whose power is significantly lower than Wi-Fi or cellular transmissions. It can be incorporated into consumer electronics and has a wide set of applications.&lt;/p&gt;
+&lt;p&gt;The device transmits a radio signal and uses its reflections to estimate the time it takes the signal to travel from the transmitting antenna to the reflecting object and back to each of the receiving antennas. WiTrack then uses its knowledge of the position of the antennas to create a geometric reference model, which maps the round trip delays observed by the receive antennas to a 3D position of the reflecting body.&lt;/p&gt;
+&lt;p&gt;For this Project, our team and the project was awareded the Best Research and Development Award by the Science and Technology Council, IIT Kanpur.&lt;/p&gt;
+&lt;p&gt;This Project was inspired by the Witrack Project of MIT under Professor Dina Katabi.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robotics | Jaihonikhil</title>
+    <link>https://jaihonikhil.github.io/tag/robotics/</link>
+      <atom:link href="https://jaihonikhil.github.io/tag/robotics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Robotics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 03 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jaihonikhil.github.io/media/icon_hu94c20572586274a900963e2d3893d162_15641_512x512_fill_lanczos_center_2.png</url>
+      <title>Robotics</title>
+      <link>https://jaihonikhil.github.io/tag/robotics/</link>
+    </image>
+    
+    <item>
+      <title>INTERNATIONAL ROBOTICS CHALLENGE</title>
+      <link>https://jaihonikhil.github.io/project/robotics/</link>
+      <pubDate>Sat, 03 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://jaihonikhil.github.io/project/robotics/</guid>
+      <description>&lt;p&gt;Designed an Autonomous Pathplanning bot and a Manual bot with scissor mechanism and a gripper, controlled through PS2 for removing the obstacles in the maze&lt;/p&gt;
+&lt;p&gt;Helped in the electrical part of the Robots as well through the connections with the motors, Ultrasonic sensors, Arduino, and servos&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

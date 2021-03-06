@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Natural Language Processing | Jaihonikhil</title>
+    <link>https://jaihonikhil.github.io/tag/natural-language-processing/</link>
+      <atom:link href="https://jaihonikhil.github.io/tag/natural-language-processing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Natural Language Processing</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jaihonikhil.github.io/media/icon_hu94c20572586274a900963e2d3893d162_15641_512x512_fill_lanczos_center_2.png</url>
+      <title>Natural Language Processing</title>
+      <link>https://jaihonikhil.github.io/tag/natural-language-processing/</link>
+    </image>
+    
+    <item>
+      <title>Statement Verification and Evidence Finding using Tables</title>
+      <link>https://jaihonikhil.github.io/project/example/</link>
+      <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://jaihonikhil.github.io/project/example/</guid>
+      <description>&lt;p&gt;Tables are ubiquitous in documents and presentations for conveying important information in a concise manner. This is true in many domains, stretching from scientific to government documents.  In fact,  surrounding text in these articles are often statements summarizing or highlighting some information derived from the primary source data in tables. Describing all the information provided in a table in a readable manner would be lengthy and considerably more difficult to understand.&lt;/p&gt;
+&lt;p&gt;Recently, there has been an interest in factual verification and prediction over structured data like tables and graphs. To circumvent any false news incident, it is necessary to not only model and predict over structured data efficiently but also to explain those predictions. In this paper, as part of the SemEval-2021 Task 9,  we tackle the problem of fact verification and evidence finding over tabular data.&lt;/p&gt;
+&lt;p&gt;There are two subtasks. Given a table and a statement/fact, subtask A determines whether the statement is inferred from the tabular data, and subtask B determines which cells in the table provide evidence for the former subtask. We make a comparison of the baselines and state-of-the-art approaches over the given SemTabFact dataset. We also propose a novel approach CellBERT to solve evidence finding as a form of the Natural Language Inference task. We obtain a &lt;strong&gt;3-way F1 score of 0.69 on subtask A&lt;/strong&gt; and an &lt;strong&gt;F1 score of 0.65 on subtask B&lt;/strong&gt;. We were &lt;strong&gt;5th in Subtask A&lt;/strong&gt; and &lt;strong&gt;1st in Subtask B&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
